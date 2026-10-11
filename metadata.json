@@ -1,0 +1,6 @@
+{
+  "name": "CASTLE ABOVE CLOUDS",
+  "description": "Real-time PBR stylized 3D scene of a castle above the clouds with floating islands, glowing lanterns, and moonlit stone towers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
