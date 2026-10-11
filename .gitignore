@@ -1,8 +1,35 @@
+# Dependencies
 node_modules/
-build/
+.pnp
+.pnp.js
+
+# Production build
 dist/
+build/
 coverage/
-.DS_Store
-*.log
-.env*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 !.env.example
+
+# Vercel
+.vercel
+
+# AI Studio / IDE
+.aistudio
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
+*.log
